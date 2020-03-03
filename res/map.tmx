@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.4" orientation="orthogonal" renderorder="right-down" width="20" height="13" tilewidth="32" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="1">
+ <tileset firstgid="1" source="tileset1.tsx"/>
+ <tileset firstgid="193" source="tileset3.tsx"/>
+ <tileset firstgid="449" source="grave_markers.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="20" height="13">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACmNkYGBgpBE2o6HZ6DhxELiBVtiUgB+pgZWwYErNQzebWn6g1G3EpgtcbiXFD6YkqCUXY3MPufYCAO9oilUQBAAA
+  </data>
+ </layer>
+ <layer id="4" name="Objects" width="20" height="13">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACmNgGJrgEAlqhRhJN/8wElsQTb8SGeYhA0Ui9B8mrISugJB7KAwShkCgAUFIhuAz7xpQ8joBCxOB8klEOuouUN09AmoLgfJFRJr3BKjuKaUBMkAAAD/EcyAQBAAA
+  </data>
+ </layer>
+</map>
